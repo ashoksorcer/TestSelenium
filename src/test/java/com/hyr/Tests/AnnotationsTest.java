@@ -23,7 +23,7 @@ public class AnnotationsTest {
   
   @BeforeMethod
   public void beforeMethod() {
-	  System.out.println("Before Method Ashok");
+	  System.out.println("Before Method");
   }
 
   @AfterMethod
