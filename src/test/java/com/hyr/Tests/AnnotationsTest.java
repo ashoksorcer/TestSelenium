@@ -23,7 +23,7 @@ public class AnnotationsTest {
   
   @Test
   public void testMethod3() {
-	  System.out.println("Test Method3 for feature branch");
+	  System.out.println("Test Method3 for feature branch - test conflicts while pulling");
   }
   
   @BeforeMethod
