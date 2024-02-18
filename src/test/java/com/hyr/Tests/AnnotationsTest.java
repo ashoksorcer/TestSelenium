@@ -21,6 +21,7 @@ public class AnnotationsTest {
 	  System.out.println("Test Method2");
   }
   
+  @Test
   public void testMethod3() {
 	  System.out.println("Test Method3 for feature branch");
   }
