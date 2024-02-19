@@ -26,6 +26,11 @@ public class AnnotationsTest {
 	  System.out.println("Test Method3 for feature branch - Ashok testing pull");
   }
   
+  @Test
+  public void testMethod4() {
+	  System.out.println("Test Method3 for feature branch - Ashok stashing his changes");
+  }
+  
   @BeforeMethod
   public void beforeMethod() {
 	  System.out.println("Before Method");
